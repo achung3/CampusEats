@@ -89,3 +89,4 @@ HW Ch 18
 
     e)  grant haps_user both select and update privileges to the view
 
+[HW Ch 18_ Murach and Campus Eats.pdf](https://github.com/achung3/CampusEats/files/6427306/HW.Ch.18_.Murach.and.Campus.Eats.pdf)
