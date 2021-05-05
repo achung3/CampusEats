@@ -64,6 +64,9 @@ Murach Ch 11 and 12
       4)   There is a flat fee of $5 for each delivery.  A person orders food one to many times.  An individual delivery is tied to one and only one person for the order.  The order is for one and only one restaurant.  For the items on the order we will only need to keep the total price and delivery charge, along with the driver and delivery times.  There should also be a unique identifier (ID) that ties to the id for the order at the indivudual restaurant.  You can assume that the actual items on the order need to come from the restaurant database.
       5)   Food providers or restaurants have to be approved in order to be included in the database.  You can include ten restaurants or more of your choice for the test database.  Information will include an ID, location, schedule, and a link to the web site along with other attributes you may identify.
       6)   The database will serve as an important data collection source providing valuable information about nutrition and eating habits of campus community members.
+      
+![intialModel](https://user-images.githubusercontent.com/42848488/117146361-21d6a180-ad82-11eb-9609-ee8de6ad4877.png)
+![modelwithratings](https://user-images.githubusercontent.com/42848488/117146363-226f3800-ad82-11eb-85a5-92ce64ce2b82.png)
 
 [Murach Ch 11 and 12 HW_Group21.pptx](https://github.com/achung3/CampusEats/files/6424558/Murach.Ch.11.and.12.HW_Group21.pptx)
 
