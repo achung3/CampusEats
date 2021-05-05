@@ -65,7 +65,9 @@ Murach Ch 11 and 12
       5)   Food providers or restaurants have to be approved in order to be included in the database.  You can include ten restaurants or more of your choice for the test database.  Information will include an ID, location, schedule, and a link to the web site along with other attributes you may identify.
       6)   The database will serve as an important data collection source providing valuable information about nutrition and eating habits of campus community members.
       
+Intial Model:      
 ![intialModel](https://user-images.githubusercontent.com/42848488/117146361-21d6a180-ad82-11eb-9609-ee8de6ad4877.png)
+Model with Ratings:
 ![modelwithratings](https://user-images.githubusercontent.com/42848488/117146363-226f3800-ad82-11eb-85a5-92ce64ce2b82.png)
 
 [Murach Ch 11 and 12 HW_Group21.pptx](https://github.com/achung3/CampusEats/files/6424558/Murach.Ch.11.and.12.HW_Group21.pptx)
