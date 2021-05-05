@@ -67,6 +67,7 @@ Murach Ch 11 and 12
       
 Intial Model:      
 ![intialModel](https://user-images.githubusercontent.com/42848488/117146361-21d6a180-ad82-11eb-9609-ee8de6ad4877.png)
+
 Model with Ratings:
 ![modelwithratings](https://user-images.githubusercontent.com/42848488/117146363-226f3800-ad82-11eb-85a5-92ce64ce2b82.png)
 
